@@ -1,0 +1,8 @@
+public class helloWorld
+{
+   public void main (String [] Args)
+   {
+      System.out.println("just trying");
+      System.exit(0);
+   }
+}
